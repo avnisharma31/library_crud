@@ -23,8 +23,8 @@ This is a simple CRUD application built using FastAPI and PostgreSQL. The applic
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/library-system.git
-    cd library-system
+    git clone https://github.com/avnisharma31/library_crud.git
+    cd library_crud
     ```
 
 2. **Set Up the Virtual Environment**
